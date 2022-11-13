@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Victoria
+- 👋 Hi, I’m Victoria
 - 👀 I’m interested in programming, reading, learning and socialising with my friends and family.
-- 🌱 I’m currently learning native Android and Video Game Development.
+- 🌱 I’m currently learning native Android and Video Game Development using Unity 3D.
 - 💞️ I’m looking for my first entry-level / Junior position as a video and mobile game developer 
 - 📫 How to reach me:
 -                     e-mail:   victoriawoodward2015@outlook.com
